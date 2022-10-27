@@ -1,0 +1,44 @@
+.bg-green {
+    background-color: #27a986;
+}
+
+.bg-gray {
+    background-color: rgb(212, 212, 212);
+}
+
+.text-light {
+    color: rgb(240, 231, 218)
+}
+
+.text-dark {
+    color: rgb(11, 11, 11);
+}
+
+.text-medium {
+    color: rgb(100, 94, 94);
+}
+
+.gothic-text {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+a:link,
+a:visited {
+    color: white;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+.no-wrap {
+    display: flex;
+    flex-wrap: none;
+}
+
+border-bottom {
+    width: 10px;
+    color: #27a986;
+}
